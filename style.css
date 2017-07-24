@@ -1,3 +1,53 @@
+
 .entete img{
-	height: 200px;
+	height: 13em;
+}
+
+.colonne-gauche h3{
+  text-decoration: underline;
+}
+
+.colonne-gauche ul{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.colonne-gauche i{
+  padding-right: 10px;
+}
+
+.colonne-centre h2{
+  border-bottom: 1px solid black;
+
+}
+
+.colonne-centre i{
+  padding-right: 15px;
+}
+
+.colonne-centre dt{
+  margin-top: 30px;
+
+}
+
+.centre-interet ul{
+
+
+}
+
+.centre-interet li{
+
+}
+
+
+.titrecd i{
+  padding-right: 15px;
+}
+
+.colonne-droite ul{
+
+}
+
+.colonne-droite li{
+
 }
