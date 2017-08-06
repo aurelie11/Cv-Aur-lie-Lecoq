@@ -1,6 +1,17 @@
+.jumbotron{
+  background-image: url("header1.jpg");
+}
+
+.jumbotron h1{
+  font-size: 50px;
+}
 
 .entete img{
 	height: 13em;
+}
+
+main{
+  background-image: url("background3");
 }
 
 .colonne-gauche h3{
